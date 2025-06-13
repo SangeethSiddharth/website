@@ -1,0 +1,63 @@
+ @font-face{
+    src: url(C:\Users\MY-PC\Desktop\website\fonts\Roboto);
+    font-family: roboto;
+}
+1{
+    font-family: Verdana, arial;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(0, 48, 94);
+    border-radius:20px;
+    text-shadow: 2px 2px 5px red,-2px 2px 5px blue;
+  
+}
+
+    font-family: roboto;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+    border-bottom: 3px solid red;
+    border-top:3px solid yellow;
+    border-left:3px solid lawngreen;
+    border-right:3px solid gold;
+   
+}
+#p4{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    box-shadow: 3px;
+}
+body{
+    margin: 0px;
+}
+.box{
+    border:5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+}
+#box1{
+    background-color:red ;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+#box2{
+    background-color: burlywood;
+    margin: auto;
+}
+#img1{
+    float: left;
+    margin-right: 20px;
+}
+#img2{
+    float: right;
+    margin-left: 20px;
+}
+body{
+    border: 3px solid;
+    display:flow-root;
+
+}
+
